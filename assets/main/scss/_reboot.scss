@@ -1,7 +1,7 @@
 html {
   @if $backgroundImageLight != '' {
-    background: url($backgroundImageLight) no-repeat center center fixed;
-    background-size: cover;
+    background: url($backgroundImageLight) repeat left top;
+    background-size: 3%;
 
     body {
       background-color: unset;
