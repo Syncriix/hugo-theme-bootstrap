@@ -1,5 +1,5 @@
 {{- with .Site.Author -}}
-<div class="profile-name fw-fold fs-lg">{{ .name }}</div>
+<div class="screen-user profile-name fw-fold fs-lg"><span class="name" data-value="{{ .name }}">{{ .name }}</span></div>
 {{- with .bio -}}
 <div class="profile-bio">{{ . }}</div>
 {{- end -}}
