@@ -1,29 +1,36 @@
 {{ define "content" }}
-<div class="row p-5 text-center hero bg-image">
-  <div class="mask" style="background-color: rgba(0, 0, 0, 0.6);">
-      <div class="d-flex justify-content-center align-items-center h-100">
-        <div class="text-white">
-          <div class="TextGlitch" id="title">
-            <div class="TextGlitch-clip">
-              <div class="TextGlitch-word"></div>
-              <div class="TextGlitch-word TextGlitch-blend TextGlitch-blendA"></div>
-              <div class="TextGlitch-word TextGlitch-blend TextGlitch-blendB"></div>
-            </div>
-            <div class="TextGlitch-clip">
-              <div class="TextGlitch-word"></div>
-              <div class="TextGlitch-word TextGlitch-blend TextGlitch-blendA"></div>
-              <div class="TextGlitch-word TextGlitch-blend TextGlitch-blendB"></div>
-            </div>
-            <div class="TextGlitch-clip">
-              <div class="TextGlitch-word"></div>
-              <div class="TextGlitch-word TextGlitch-blend TextGlitch-blendA"></div>
-              <div class="TextGlitch-word TextGlitch-blend TextGlitch-blendB"></div>
-            </div>
-          </div>
+<div class="row text-center hero bg-image">
+  <div id='stars'></div>
+  <div id='stars2'></div>
+  <div id='stars3'></div>
+  <div class="d-flex justify-content-center align-items-center h-100">
+    <div class="text-white mask">
+      <div class="TextGlitch" id="title">
+        <div class="TextGlitch-clip">
+          <div class="TextGlitch-word"></div>
+          <div class="TextGlitch-word TextGlitch-blend TextGlitch-blendA"></div>
+          <div class="TextGlitch-word TextGlitch-blend TextGlitch-blendB"></div>
+        </div>
+        <div class="TextGlitch-clip">
+          <div class="TextGlitch-word"></div>
+          <div class="TextGlitch-word TextGlitch-blend TextGlitch-blendA"></div>
+          <div class="TextGlitch-word TextGlitch-blend TextGlitch-blendB"></div>
+        </div>
+        <div class="TextGlitch-clip">
+          <div class="TextGlitch-word"></div>
+          <div class="TextGlitch-word TextGlitch-blend TextGlitch-blendA"></div>
+          <div class="TextGlitch-word TextGlitch-blend TextGlitch-blendB"></div>
         </div>
       </div>
     </div>
+  </div>
 </div>
+<ul>
+  {{ range $.Site.Home.AllTranslations }}
+  <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+  {{ end }}
+  </ul>
+<div class="tape"></div>
 <div class="{{ if default true .Params.sidebar }}col-xxl-8{{ else }}col-xxl-12{{ end }}">
   {{ partial "list" . }}
 </div>

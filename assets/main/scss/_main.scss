@@ -14,19 +14,3 @@ main {
     }
   }
 }
-
-.hero {
-      overflow-y: hidden;
-      background-image: url(/images/hero.jpg);
-      background-size: cover;
-      margin-top: -24px;
-      width: 100vw;
-      height: 400px;
-      position: relative;
-      left: 50%;
-      right: 50%;
-      margin-bottom: var(--hbs-gutter-x);
-      margin-left: -50vw;
-      max-width: 100vw !important;
-      z-index: 10;
-}
