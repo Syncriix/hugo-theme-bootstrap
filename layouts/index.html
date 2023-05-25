@@ -25,11 +25,6 @@
     </div>
   </div>
 </div>
-<ul>
-  {{ range $.Site.Home.AllTranslations }}
-  <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
-  {{ end }}
-  </ul>
 <div class="tape"></div>
 <div class="{{ if default true .Params.sidebar }}col-xxl-8{{ else }}col-xxl-12{{ end }}">
   {{ partial "list" . }}
