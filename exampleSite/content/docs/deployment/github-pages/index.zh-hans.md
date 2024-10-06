@@ -27,4 +27,4 @@ images = []
 
 {{< page-resource-content "code/workflow" >}}
 
-> 也可以参考[新手模板的 GitHub Pages Workflow](https://github.com/razonyang/hugo-theme-bootstrap-skeleton/blob/main/.github/workflows/gh-pages.yml)。
+> 也可以参考[新手模板的 GitHub Pages Workflow](https://github.com/syncriix/hugo-theme-bootstrap-skeleton/blob/main/.github/workflows/gh-pages.yml)。

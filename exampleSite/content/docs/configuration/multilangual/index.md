@@ -19,7 +19,7 @@ navWeight = 960
 
 HBS supports multiple languages out of box, such as English, Simplified Chinese, Traditional Chinese, French, Russian, etc.
 
-You can add your own translations on: [hugo-theme-bootstrap/i18n](https://github.com/razonyang/hugo-theme-bootstrap/tree/master/i18n)
+You can add your own translations on: [hugo-theme-bootstrap/i18n](https://github.com/syncriix/hugo-theme-bootstrap/tree/master/i18n)
 
 <!--more-->
 

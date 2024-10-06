@@ -135,7 +135,7 @@ shenma = ""
 # sa = true # Adaptations must be shared under the same terms.
 
 # [utterances]
-# repo = "razonyang/hugo-theme-bootstrap" # Replace with your repository.
+# repo = "syncriix/hugo-theme-bootstrap" # Replace with your repository.
 # issueTerm = "pathname" # pathname, url, title, og:title
 # label = "comment"
 # By default, light and dark mode correspond to github-light and github-dark, respectively.
@@ -157,7 +157,7 @@ shenma = ""
 # moderation = false # Same as Staticman's moderation.
 
 [giscus]
-repo = "razonyang/hugo-theme-bootstrap"
+repo = "syncriix/hugo-theme-bootstrap"
 repoId = "MDEwOlJlcG9zaXRvcnkzMDQzMzI4NTM="
 category = "General"
 categoryId = "MDE4OkRpc2N1c3Npb25DYXRlZ29yeTMyODkzODg2"
@@ -273,7 +273,7 @@ endpoint = "https://getform.io/f/56041c81-9e03-4c24-b9c5-61238854d4cd" # Backend
 siteKey = "6LcWQH0gAAAAAJPZN9S-wrugRUukNOiHfxmFOSM5"
 
 [repo]
-url = "https://github.com/razonyang/hugo-theme-bootstrap"
+url = "https://github.com/syncriix/hugo-theme-bootstrap"
 # branch = "main"
 subPath = "exampleSite"
 # dateFormat = "02/01/2006, 15:04:05 PM"
@@ -286,7 +286,7 @@ subPath = "exampleSite"
 # coloredInDark = true # Colored in dark mode
 # dropdownMenuToggle = false # Hide the dropdown menu toggle.
 [topAppBar.social]
-github = "razonyang/hugo-theme-bootstrap"
+github = "syncriix/hugo-theme-bootstrap"
 patreon = "razonyang"
 paypal = "razonyang"
 # rss = "" # Disable RSS link
@@ -302,7 +302,7 @@ reduceFontSize = true
 [social]
 email = "user@domain.tld"
 # facebook = "yourfacebookusername"
-github = "razonyang/hugo-theme-bootstrap"
+github = "syncriix/hugo-theme-bootstrap"
 # gitlab = "yourgitlabusername"
 # linkedin = "yourlinkedinusername"
 # xing = "yourxingusername"
@@ -354,7 +354,7 @@ location = "Earth"
 
 [author.social]
   email = "razonyang@gmail.com"
-  github = "razonyang/hugo-theme-bootstrap"
+  github = "syncriix/hugo-theme-bootstrap"
   twitter = "razonyang"
   patreon = "razonyang"
   paypal = "razonyang"

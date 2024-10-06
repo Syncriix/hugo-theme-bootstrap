@@ -9,9 +9,9 @@ body:
       label: Prerequisites
       description: Take a couple minutes to help our maintainers work faster.
       options:
-        - label: I have [searched](https://github.com/razonyang/hugo-theme-bootstrap/issues?utf8=%E2%9C%93&q=is%3Aissue) for duplicate or closed issues
+        - label: I have [searched](https://github.com/syncriix/hugo-theme-bootstrap/issues?utf8=%E2%9C%93&q=is%3Aissue) for duplicate or closed issues
           required: true
-        - label: I have [searched](https://github.com/razonyang/hugo-theme-bootstrap/discussions) for relatived questions
+        - label: I have [searched](https://github.com/syncriix/hugo-theme-bootstrap/discussions) for relatived questions
           required: true
         - label: I have read [documentations](https://hbs.razonyang.com)
           required: true
@@ -64,7 +64,7 @@ body:
     id: version-theme
     attributes:
       label: What version of theme are you using?
-      description: "`cd themes/hugo-theme-bootstrap && git log -n 1 --decorate --pretty=oneline` or `grep 'require\ github.com/razonyang/hugo-theme-bootstrap' go.mod`"
+      description: "`cd themes/hugo-theme-bootstrap && git log -n 1 --decorate --pretty=oneline` or `grep 'require\ github.com/syncriix/hugo-theme-bootstrap' go.mod`"
       placeholder: 'e.g., v1.0.0, branch(master) or commit'
     validations:
       required: true

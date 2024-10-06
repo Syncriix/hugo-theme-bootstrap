@@ -1,7 +1,7 @@
 {
   "author": "Razon Yang <razonyang@gmail.com>",
   "bugs": {
-    "url": "https://github.com/razonyang/hugo-theme-bootstrap/issues"
+    "url": "https://github.com/syncriix/hugo-theme-bootstrap/issues"
   },
   "comments": {
     "dependencies": {
@@ -68,7 +68,7 @@
   },
   "description": "Hugo bootstrap theme",
   "devDependencies": {},
-  "homepage": "https://github.com/razonyang/hugo-theme-bootstrap#readme",
+  "homepage": "https://github.com/syncriix/hugo-theme-bootstrap#readme",
   "keywords": [
     "hugo",
     "theme",
@@ -80,6 +80,6 @@
   "name": "hugo-theme-bootstrap",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/razonyang/hugo-theme-bootstrap.git"
+    "url": "git+https://github.com/syncriix/hugo-theme-bootstrap.git"
   }
 }
