@@ -37,3 +37,6 @@ viewer = true
 
 [params.docsNav]
 reduceFontSize = true
+
+[build]
+  writeStats = true
