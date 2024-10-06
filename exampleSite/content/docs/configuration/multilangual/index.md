@@ -48,3 +48,4 @@ The `dateFormat` supports localization, you can change it as `:date_full`, you c
 ## Further Reading
 
 - [Translate Your Content](https://gohugo.io/content-management/multilingual/#translate-your-content)
+

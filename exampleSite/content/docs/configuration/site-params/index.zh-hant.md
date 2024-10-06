@@ -170,3 +170,4 @@ authors = ["RazonYang"]
 | `docs.nav.reduceFontSize` | Boolean | `true` | 為 `false` 時，不縮小子導航菜單的字體大小。
 
 > 除了 Google 站長工具外，其他搜索引擎站長工具無法與 `hugo --minify` 同時使用，這是因為它們無法識別優化後的元標簽。
+

@@ -208,3 +208,4 @@ You can either specify the color CSS utilities or the `style` attribute for sett
 >       icon: '<i class="far fa-clock" style="color: blue"></i>'
 > ---
 > ```
+

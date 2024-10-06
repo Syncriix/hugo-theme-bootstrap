@@ -54,3 +54,4 @@ The content of those files just contain a `title` parameter.
 | `archive.dateFormat` | String | `Jan 2` | Archive date format.
 | `archive.monthFormat` | String | `January` | Archive month format, e.g. `1`, `01`, `Jan` and `January`.
 | `archive.basePath` | String | `/archives` |
+

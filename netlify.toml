@@ -24,13 +24,6 @@ command = "cd exampleSite && npm install && hugo --minify -b=$DEPLOY_PRIME_URL"
     X-Frame-Options = "deny"
     X-XSS-Protection = "1; mode=block"
 
-[[redirects]]
-  from = "/zh-cn/*"
-  to = "/v1/zh-hans/:splat"
-
-[[redirects]]
-  from = "/zh-tw/*"
-  to = "/v1/zh-hant/:splat"
 
 [[redirects]]
   from = "/:lang/*"
@@ -39,6 +32,6 @@ command = "cd exampleSite && npm install && hugo --minify -b=$DEPLOY_PRIME_URL"
 
 [[redirects]]
   from = "/*"
-  to = "/en/404.html" # Replace the "en" to your default language code.
-  # to = "/404.html" # Use it when a monolingual site or "defaultContentLanguageInSubdir" is disabled.
+  # to = "/en/404.html" # Replace the "en" to your default language code.
+  to = "/404.html" # Use it when a monolingual site or "defaultContentLanguageInSubdir" is disabled.
   status = 404

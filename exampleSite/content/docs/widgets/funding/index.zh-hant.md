@@ -45,3 +45,4 @@ authors = ["RazonYang"]
 | 名稱 | 類型 | 預設值 | 描述
 |---|:-:|:-:|---
 | `funding` | Object | - | 覆蓋全局的 `funding` 設置，留空則禁用。
+

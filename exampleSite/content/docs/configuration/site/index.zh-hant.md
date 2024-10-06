@@ -40,3 +40,4 @@ authors = ["RazonYang"]
 | `author` | Object | - | [作者小部件]({{< ref "/docs/widgets/author" >}})。
 
 請參閱 [All Configuration Settings](https://gohugo.io/getting-started/configuration/#all-configuration-settings)。
+
