@@ -20,4 +20,5 @@
 - [MiniLessons](https://sharp-lamport-ea92ad.netlify.app/)
 - [NemuNote](https://nemulog.pages.dev/)
 - [arch.or.id](https://arch.or.id)
-- [Rubonnek](https://rubonnek.com)
+- [OpenInfra, Mexico User Group](https://openinfra.mx/)
+- [SystemHorse](https://systemhorse.pages.dev/)

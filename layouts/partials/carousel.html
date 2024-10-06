@@ -1,4 +1,5 @@
-{{- $pages := first 3 (where $.Site.Pages "Params.carousel" true) }}
+{{- $count := default 5 site.Params.carouselPostCount }}
+{{- $pages := first $count (where $.Site.Pages "Params.carousel" true) }}
 {{- if and .IsHome $pages (eq .Paginator.PageNumber 1) }}
 <div class="container p-0 mb-4">
     <div class="row p-0 m-0">
@@ -18,7 +19,7 @@
                     {{- template "carousel-thumbnail" (dict "page" . "lazyLoading" (ne $i 0)) }}
                     <div class="carousel-caption ps-3 text-center text-lg-start start-0 end-0 mb-2">
                         <h5 class="mb-4 mb-lg-2">{{ .Title }}</h5>
-                        <div class="d-none d-lg-flex mb-lg-4">{{ .Summary }}</div>
+                        <div class="d-none d-lg-flex mb-lg-4">{{ .Summary | plainify }}</div>
                     </div>
                 </a>
                 {{- $i = add $i 1 }}

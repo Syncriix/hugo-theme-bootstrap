@@ -22,6 +22,9 @@ other = "Archiwum"
 [authors]
 other = "Autorzy"
 
+[browse_docs]
+other = "Browse docs"
+
 [button_copy_url]
 other = "Skopiuj adres URL"
 
@@ -150,6 +153,9 @@ other = "Bardzo mały"
 
 [funding_alipay]
 other = "Alipay"
+
+[funding_buymeacoffee]
+other = "Buy Me a Coffee"
 
 [funding_ko_fi]
 other = "Ko-fi"

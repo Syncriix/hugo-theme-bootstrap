@@ -22,6 +22,9 @@ other = "歸檔"
 [authors]
 other = "作者"
 
+[browse_docs]
+other = "瀏覽文檔"
+
 [button_copy_url]
 other = "複製連結"
 
@@ -150,6 +153,9 @@ other = "特小號"
 
 [funding_alipay]
 other = "支付寶"
+
+[funding_buymeacoffee]
+other = "Buy Me a Coffee"
 
 [funding_ko_fi]
 other = "Ko-fi"
@@ -396,6 +402,12 @@ other = "深色"
 
 [theme_light]
 other = "淺色"
+
+[toggle_sidebar]
+other = "切換側邊欄"
+
+[translations]
+other = "譯文"
 
 [try_again]
 other = "再試一次"

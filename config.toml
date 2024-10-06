@@ -1,9 +1,10 @@
 [module]
 [module.hugoVersion]
 extended = true
-min = "0.97.0"
+min = "0.128.0"
 
 [params]
+sass_transpiler = "libsass" # dartsass is recommended, since libsass is deprecated.
 breadcrumb = true
 dateFormat = ":date_long"
 countTaxonomyPosts = false
@@ -11,6 +12,7 @@ color = "auto"
 customCSS = []
 customJS = []
 diagram = false
+carouselPostCount = 5
 featuredPostCount = 5
 fixedHeader = true
 fullWidth = false
@@ -32,3 +34,6 @@ titleCase = false
 titleSeparator = "-"
 tocWordCount = 280
 viewer = true
+
+[params.docsNav]
+reduceFontSize = true

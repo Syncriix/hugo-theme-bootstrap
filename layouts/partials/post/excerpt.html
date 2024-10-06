@@ -1,4 +1,7 @@
-{{- $key := $.Site.Params.post.excerpt }}
+{{- $key := "description" }}
+{{- if isset site.Params.post "excerpt" }}
+  {{- $key = site.Params.post.excerpt }}
+{{- end }}
 {{- $useDescription := and (eq $key "description") .Description }}
 {{- $anchor := "" }}
 {{- if default false $.Site.Params.post.readMoreFromContent }}{{ $anchor = "#post-content-body" }}{{ end }}
