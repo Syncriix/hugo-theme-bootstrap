@@ -2,9 +2,8 @@
 author = "Hugo Authors"
 title = "Markdown Syntax Guide"
 date = "2020-11-09"
-description = "This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme."
+description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 featured = true
-carousel = true
 categories = [
 ]
 tags = [
@@ -28,6 +27,8 @@ authors = ["Hugo"]
     icon = '<i class="fab fa-markdown fa-fw text-success"></i>'
 +++
 
+This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+<!--more-->
 
 ## Headings
 
@@ -53,7 +54,6 @@ The blockquote element represents content that is quoted from another source, op
 ### Blockquote without attribution
 
 > Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> 
 > **Note** that you can use *Markdown syntax* within a blockquote.
 
 ### Blockquote with attribution
@@ -126,7 +126,7 @@ Tables aren't part of the core Markdown spec, but Hugo supports supports them ou
 
 ### Code block with backticks
 
-```html {title="public/index.html"}
+```html
 <!doctype html>
 <html lang="en">
 <head>
@@ -193,4 +193,3 @@ X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
 Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
 
 Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-

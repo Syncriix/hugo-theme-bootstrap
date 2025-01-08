@@ -10,6 +10,21 @@ other = "Über mich"
 [actions]
 other = "Aktionen"
 
+[alert_caution]
+other = 'Achtung'
+
+[alert_important]
+other = 'Wichtig'
+
+[alert_note]
+other = 'Hinweis'
+
+[alert_tip]
+other = 'Tipp'
+
+[alert_warning]
+other = 'Warnung'
+
 [alipay]
 other = "Alipay"
 
@@ -155,7 +170,7 @@ other = "Extra klein"
 other = "Alipay"
 
 [funding_buymeacoffee]
-other = "Buy Me a Coffee"
+other = "Kauf mir 'nen Kaffee"
 
 [funding_ko_fi]
 other = "Ko-fi"
@@ -243,7 +258,7 @@ other = "Ähnliche Beiträge"
 other = "Diese Seite bearbeiten"
 
 [repo_action_view]
-other = "Seiten-Quelltext betrachen"
+other = "Seiten-Quelltext betrachten"
 
 [repo_title]
 other = "Repository"
