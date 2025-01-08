@@ -50,3 +50,4 @@ name = "Foobar"
 | `author.params` | Object | - |
 | `author.params.layout` | String | - | 可選值：`compact`。
 | `author.social` | Object | - | [社交連結]({{< ref "/docs/widgets/social-links" >}})。
+

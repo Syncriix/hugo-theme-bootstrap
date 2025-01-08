@@ -34,7 +34,7 @@ images = []
 
 Create the `Dockerfile` on your site root.
 
-> Our [starter template](https://github.com/razonyang/hugo-theme-bootstrap-skeleton) already includes the `Dockerfile`.
+> Our [starter template](https://github.com/syncriix/hugo-theme-bootstrap-skeleton) already includes the `Dockerfile`.
 
 ```dockerfile
 ###############

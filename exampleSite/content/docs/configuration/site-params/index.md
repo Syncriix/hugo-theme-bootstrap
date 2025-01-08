@@ -168,3 +168,4 @@ The site parameters are located in `config/_default/params.toml` by default.
 | `docs.nav.reduceFontSize` | Boolean | `true` | When `false`, don't reduce the font size of children navigation.
 
 > Except the Google webmaster tool, the other webmaster tools cannot work with `hugo --minify`, because they cannot recognize the minified meta tag.
+

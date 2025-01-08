@@ -1,3 +1,4 @@
-module github.com/razonyang/hugo-theme-bootstrap
+module github.com/syncriix/hugo-theme-bootstrap
 
-go 1.17
+go 1.23
+

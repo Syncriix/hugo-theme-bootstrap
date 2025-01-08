@@ -1,10 +1,10 @@
 # Hugo Bootstrap Theme
 
-[![Used By](https://img.shields.io/badge/dynamic/json?color=success&label=used+by&query=repositories_humanize&logo=hugo&url=https://api.razonyang.com/v1/github/dependents/razonyang/hugo-theme-bootstrap)](https://github.com/razonyang/hugo-theme-bootstrap/network/dependents)
-![Hugo Requirements](https://img.shields.io/badge/dynamic/json?color=important&label=requirements&query=requirements&logo=hugo&url=https://api.razonyang.com/v1/hugo/modules/github.com/razonyang/hugo-theme-bootstrap)
+[![Used By](https://img.shields.io/badge/dynamic/json?color=success&label=used+by&query=repositories_humanize&logo=hugo&url=https://api.razonyang.com/v1/github/dependents/syncriix/hugo-theme-bootstrap)](https://github.com/syncriix/hugo-theme-bootstrap/network/dependents)
+![Hugo Requirements](https://img.shields.io/badge/dynamic/json?color=important&label=requirements&query=requirements&logo=hugo&url=https://api.razonyang.com/v1/hugo/modules/github.com/syncriix/hugo-theme-bootstrap)
 [![PageSpeed insights](https://img.shields.io/badge/pagespeed-90%2B-success?style=flat-square)](https://pagespeed.web.dev/report?url=https://hbs-skeleton.netlify.app/)
-[![Releases](https://img.shields.io/github/release/razonyang/hugo-theme-bootstrap?style=flat-square)](https://github.com/razonyang/hugo-theme-bootstrap/releases)
-[![License](https://img.shields.io/github/license/razonyang/hugo-theme-bootstrap?style=flat-square)](https://github.com/razonyang/hugo-theme-bootstrap/blob/master/LICENSE)
+[![Releases](https://img.shields.io/github/release/syncriix/hugo-theme-bootstrap?style=flat-square)](https://github.com/syncriix/hugo-theme-bootstrap/releases)
+[![License](https://img.shields.io/github/license/syncriix/hugo-theme-bootstrap?style=flat-square)](https://github.com/syncriix/hugo-theme-bootstrap/blob/master/LICENSE)
 
 A fast, responsive and feature-rich Hugo theme for personal blog and documentations.
 
@@ -22,21 +22,21 @@ I created a new modular Hugo theme called [HB cards theme](https://github.com/hb
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/razonyang/hugo-theme-bootstrap/master/images/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/syncriix/hugo-theme-bootstrap/master/images/screenshot.png)
 
 ## Demo Sites
 
 - https://hbs.razonyang.com/ - Deploy on Netlify.
 - https://hbs-cn.razonyang.com/ - Self-Hosted server located in China.
-- [Repositories](https://github.com/razonyang/hugo-theme-bootstrap/network/dependents) that using this theme.
-- [Websites](https://github.com/razonyang/hugo-theme-bootstrap/blob/master/USERS.md) that using this theme.
+- [Repositories](https://github.com/syncriix/hugo-theme-bootstrap/network/dependents) that using this theme.
+- [Websites](https://github.com/syncriix/hugo-theme-bootstrap/blob/master/USERS.md) that using this theme.
 
 ## Docs
 
 | English                                                                                                      | 简体中文                                                                                                       | 繁體中文                                                                                                       |
 | :----------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------- |
 | [Introduction](https://hbs.razonyang.com/v1/en/docs/getting-started/introduction)                            | [简介](https://hbs.razonyang.com/v1/zh-hans/docs/getting-started/introduction)                                 | [簡介](https://hbs.razonyang.com/v1/zh-hant/docs/getting-started/introduction)                                 |
-| [Starter Template](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)                               | [新手模板](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)                                         | [新手模板](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)                                         |
+| [Starter Template](https://github.com/syncriix/hugo-theme-bootstrap-skeleton)                               | [新手模板](https://github.com/syncriix/hugo-theme-bootstrap-skeleton)                                         | [新手模板](https://github.com/syncriix/hugo-theme-bootstrap-skeleton)                                         |
 | [Install as Git Submodule](https://hbs.razonyang.com/v1/en/docs/getting-started/installation/git-submodule/) | [以 Git Submodule 安装](https://hbs.razonyang.com/v1/zh-hans/docs/getting-started/installation/git-submodule/) | [以 Git Submodule 安裝](https://hbs.razonyang.com/v1/zh-hant/docs/getting-started/installation/git-submodule/) |
 | [Install as Hugo Module](https://hbs.razonyang.com/v1/en/docs/getting-started/installation/hugo-module/)     | [以 Hugo Module 安装](https://hbs.razonyang.com/v1/zh-hans/docs/getting-started/installation/hugo-module/)     | [以 Hugo Module 安裝](https://hbs.razonyang.com/v1/zh-hant/docs/getting-started/installation/hugo-module/)     |
 | [Configuration](https://hbs.razonyang.com/v1/en/docs/configuration)                                          | [配置](https://hbs.razonyang.com/v1/zh-hans/docs/configuration)                                                | [配置](https://hbs.razonyang.com/v1/zh-hant/docs/configuration)                                                |
@@ -56,7 +56,7 @@ Thank you very much to the following contributors, sponsors and backers (sort by
 
 ### Contributors
 
-[![GitHub contributors](https://img.shields.io/github/contributors/razonyang/hugo-theme-bootstrap?style=for-the-badge)](https://github.com/razonyang/hugo-theme-bootstrap/graphs/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/syncriix/hugo-theme-bootstrap?style=for-the-badge)](https://github.com/syncriix/hugo-theme-bootstrap/graphs/contributors)
 
 ### Sponsors
 
